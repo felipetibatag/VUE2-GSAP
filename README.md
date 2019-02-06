@@ -1,4 +1,4 @@
-# efectos
+# Efectos GSAP + Vue2
 
 ## Project setup
 ```
